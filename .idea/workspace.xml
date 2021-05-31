@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fab962a-77fd-4e6f-8dcd-bbf92e69f8a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/005_cp_image_listed_in_excel_to_folder_restore_rice_label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/007_q1_accuracy_per_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/link_image_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/randomly_pick_200_q1_from_test_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../002Fusion_matrix_gui/Sa_testset_v1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../002Fusion_matrix_gui/Sa_testset_v1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../002Fusion_matrix_gui/Sa_testset_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../002Fusion_matrix_gui/utils/calculate_fusion_v1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../002Fusion_matrix_gui/utils/calculate_fusion_v1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../004spider_zml/.idea/004spider_zml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005orange_crop_model_temperature/LR_Tsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005orange_crop_model_temperature/data_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005orange_crop_model_temperature/lgb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005orange_crop_model_temperature/lgb_LR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005orange_crop_model_temperature/lgb_ols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../005orange_crop_model_temperature/lgb_with_gbdt_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../001prepare_testing_dataset/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../001prepare_testing_dataset/.idea/prepare_testing_dataset.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/.idea/prepare_testing_dataset.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../001prepare_testing_dataset/001_create_wiki_count_and_all_answer_sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/001_create_wiki_count_and_all_answer_sheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../001prepare_testing_dataset/005_cp_image_listed_in_excel_to_folder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/005_cp_image_listed_in_excel_to_folder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../001prepare_testing_dataset/extract_image_id_as_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/extract_image_id_as_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../001prepare_testing_dataset/list_image_ori_name_in_multilayer_folder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../001prepare_testing_dataset/list_image_ori_name_in_multilayer_folder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../002Fusion_matrix_gui/.idea/002Fusion_matrix_gui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../002Fusion_matrix_gui/.idea/002Fusion_matrix_gui.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../002Fusion_matrix_gui/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../002Fusion_matrix_gui/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../002Fusion_matrix_gui/utils/calculate_fusion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../002Fusion_matrix_gui/utils/calculate_fusion.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pp28cqA3iwDKeOUw2GDmq1Bqjs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.weather_prov_month">
+    <configuration name="anomaly_detection_zscore_province100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="disease_weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anomaly_detection_zscore_province100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="combine_disease_weather" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="disease_weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/combine_disease_weather.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="curve_fit_frequency_ratio_zscore_gx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="disease_weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curve_fit_frequency_ratio_zscore_gx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="disease_frequency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="disease_weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/disease_frequency.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="disease_weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather_prov_month" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="disease_weather_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weather_prov_month.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.weather_prov_month" />
+        <item itemvalue="Python.anomaly_detection_zscore_province100" />
+        <item itemvalue="Python.combine_disease_weather" />
+        <item itemvalue="Python.disease_frequency" />
+        <item itemvalue="Python.curve_fit_frequency_ratio_zscore_gx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fab962a-77fd-4e6f-8dcd-bbf92e69f8a6" name="Default Changelist" comment="" />
+      <created>1615865553229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615865553229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/disease_weather.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ols.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ols.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ols.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/anomaly_detection_kmeans.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/anomaly_detection_zscore.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ols_with_filtered_data.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/anomaly_detection_zscore.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/disease_frequency.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weather_prov_month.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/combine_disease_weather.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/anomaly_detection_zscore_province100.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/curve_fit.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Data_normalization.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/curve_fit_all_province.py</url>
+          <line>142</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/curve_fit_raw_frequency.py</url>
+          <line>171</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/disease_frequency_standalized.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/add_info_desease_rating.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/curve_fit_disease_rating.py</url>
+          <line>185</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/curve_fit_frequency_ratio_zscore_gx.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/disease_frequency.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/weather_prov_month.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/curve_fit_frequency_ratio_zscore_gx.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
